@@ -1,4 +1,4 @@
-const Menu = () => {
+const Header = () => {
 	return (
 		<div className="theme-main-menu theme-menu-two main-p-color sticky-menu">
 			<div className="d-flex align-items-center">
@@ -569,4 +569,4 @@ const Menu = () => {
 	);
 };
 
-export default Menu;
+export default Header;
